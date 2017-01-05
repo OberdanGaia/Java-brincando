@@ -2,6 +2,8 @@ package br.oberdan.brincando;
 
 import java.util.Scanner;
 
+/* Feito por Oberdan Gaia com finalidade de praticar */
+
 public class CalculoSalarioSimples {
 
 	public static void main(String[] args) {
